@@ -22,7 +22,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= "https://github.com/Lomontrandsabert/Bertrand-SALOMON-Fliscktem-/blob/master/Fliscktem.gif" />
+<img src= "Fliscktem.gif" />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
